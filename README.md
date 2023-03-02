@@ -1,1 +1,1 @@
-# zerojudge
+# ZJ 練習
