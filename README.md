@@ -1,1 +1,1 @@
-# zeroj
+# zerojudge
